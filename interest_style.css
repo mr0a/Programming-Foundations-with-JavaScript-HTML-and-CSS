@@ -22,6 +22,10 @@ li.best{
     margin: 30px auto;
 }
 
+.child-container p {
+    font-family: Courier;
+}
+
 .table-container{
     display: flex;
     justify-content: center;
